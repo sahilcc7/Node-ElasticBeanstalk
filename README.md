@@ -16,7 +16,7 @@ To get started, clone this repository on your local machine using the following 
 Open your terminal and navigate to the folder you want the project to be and enter the the following commands:
 
 ```
-$ git clone https://github.com/Aeeiee-Team/Node-ElasticBeanstalk.git
+$ git clone https://github.com/Aeeiee-Team/Node-ElasticBeanstalk.gitffd
 $ cd Node-ElasticBeanstalk
 $ npm install
 ```
