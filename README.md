@@ -8,7 +8,7 @@ You must have
 1. [Node.js](https://nodejs.org/) (_v8.12.0 or higher_) and npm (_6.4.1 or higher_) installed on your local machine. Run `node -v` and `npm -v` in your terminal to confirm that you have them installed,nmn,lk
 
 2. GIT bash
-
+fd
 ### Installing
 
 To get started, clone this repository on your local machine using the following steps:
